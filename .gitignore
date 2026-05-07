@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Excel / reports
+*.xlsx
+*.xls
+*.csv
+
+# Outputs
+output/
+reports/
+exports/
+
+# Logs
+logs/
+*.log
+
+# Output files
+output/
+reports/
+exports/
+
+# Database
+*.sqlite3
+
+# Selenium / webdriver
+chromedriver*
+geckodriver*
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Temporary
+tmp/
+temp/
+
+# PostgreSQL dumps
+*.sql
+*.dump
